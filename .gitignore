@@ -1,0 +1,4 @@
+.*
+state_dicts/*
+runs/*
+__pycache*
